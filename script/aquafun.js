@@ -1,5 +1,5 @@
 // Fish-tank project by Ivanova Natalia
-// version 6:  ES6, inheritance, App, Tank, Fish, GoldFish and Catfish classed, ui script is separated
+// version 6:  ES6, inheritance, App, Tank, Fish, GoldFish and Catfish classes, ui script is separated
 
 class App {
     constructor () {
